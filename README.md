@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/plasma-reactive-ion-etch-tool-explainer/
 
+Repository: https://github.com/mizcausevic-dev/plasma-reactive-ion-etch-tool-explainer
+
 ## What this is
 
 An interactive anatomy plate for Plasma Reactive-Ion Etch Tool. Play, scrub, or jump the five stages. The same frame always draws the same picture.
